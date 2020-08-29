@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="20d81ae2-73af-4ae0-a1be-e35614f2e55d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1glN4TqOxnZenQG8llIk9nlbCT8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="solution" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="appleInterview4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solution.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20d81ae2-73af-4ae0-a1be-e35614f2e55d" name="Default Changelist" comment="" />
+      <created>1598685028133</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598685028133</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2104" y="215" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598685090221">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2104" y="215" key="#com.intellij.execution.impl.EditConfigurationsDialog/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1598685090221" />
+    <state width="1899" height="290" key="GridCell.Tab.0.bottom" timestamp="1598685453228">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="290" key="GridCell.Tab.0.bottom/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1598685453228" />
+    <state width="1899" height="290" key="GridCell.Tab.0.center" timestamp="1598685453227">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="290" key="GridCell.Tab.0.center/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1598685453227" />
+    <state width="1899" height="290" key="GridCell.Tab.0.left" timestamp="1598685453226">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="290" key="GridCell.Tab.0.left/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1598685453226" />
+    <state width="1899" height="290" key="GridCell.Tab.0.right" timestamp="1598685453227">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="290" key="GridCell.Tab.0.right/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1598685453227" />
+    <state x="2310" y="374" key="com.intellij.ide.util.TipDialog" timestamp="1598685033247">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2310" y="374" key="com.intellij.ide.util.TipDialog/1680.0.1920.1080/0.23.1680.1027@1680.0.1920.1080" timestamp="1598685033247" />
+  </component>
+</project>

@@ -45,5 +45,5 @@ if __name__ == "__main__":
         for j in range(len(grid[i])):
             find_all_words(grid, (i, j), "", {(i, j)}, words_found)
 
-    print("Words formed by any sequence of up, down, left right")
+    print("Words formed by any sequence of up, down, left, right, or diagonal combinations")
     print(words_found)

@@ -1,4 +1,4 @@
-# HW Assignment from Apple
+# HW Assignment
 
 To install necessary dependencies (for word dictionary): see
 https://pyenchant.github.io/pyenchant/install.html
